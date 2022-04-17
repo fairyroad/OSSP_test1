@@ -1,5 +1,5 @@
 # OSSP_test1
-fetch & merge
+fetch & mesge
 A
 B
 C
